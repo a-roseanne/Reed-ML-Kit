@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reed</string>
+    <string name="camera">Camera</string>
+    <string name="upload_photo">Choose Image</string>
+    <string name="reset">Reset</string>
+    <string name="txt_btnDetect">Detect Text</string>
+    <string name="txt_start">
+        Read any text easily!
+        You can choose from your gallery or capture it right away.
+    </string>
+</resources>
